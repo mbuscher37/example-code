@@ -1,0 +1,12 @@
+﻿  buscher_CompositeMidpoint.cpp
+  buscher_CompositeTrapezoidal.cpp
+  buscher_GaussianQuadrature.cpp
+  buscher_interpolatingpolynomial.cpp
+c:\users\megb3\onedrive\documents\spring_2020\c++\iterative methods\buscher_iterativemethods\buscher_iterativemethods\buscher_interpolatingpolynomial.cpp(68): warning C4018: '<': signed/unsigned mismatch
+  buscher_IterMethod.cpp
+  buscher_main.cpp
+c:\users\megb3\onedrive\documents\spring_2020\c++\iterative methods\buscher_iterativemethods\buscher_iterativemethods\buscher_main.cpp(204): warning C4018: '<': signed/unsigned mismatch
+  buscher_polynomial.cpp
+  buscher_tridiagonal_matrix.cpp
+  Generating Code...
+  buscher_iterativemethods.vcxproj -> C:\Users\megb3\OneDrive\Documents\Spring_2020\C++\Iterative Methods\buscher_iterativemethods\Debug\buscher_iterativemethods.exe

@@ -1,0 +1,22 @@
+﻿  buscher_spellchecker.cpp
+c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\timer.h(74): warning C4244: 'return': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\buscher_spellchecker.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\buscher_hash.h(51): warning C4018: '<': signed/unsigned mismatch
+  c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\buscher_hash.h(49): note: while compiling class template member function 'int myHash<std::string>::findHash(dtype)'
+          with
+          [
+              dtype=std::string
+          ]
+  c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\buscher_hash.h(72): note: see reference to function template instantiation 'int myHash<std::string>::findHash(dtype)' being compiled
+          with
+          [
+              dtype=std::string
+          ]
+  c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\buscher_hash.h(36): note: while compiling class template member function 'myHash<std::string>::myHash(void)'
+  c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\buscher_spellchecker.cpp(45): note: see reference to function template instantiation 'myHash<std::string>::myHash(void)' being compiled
+  c:\users\megb3\onedrive\documents\spring_2020\c++\dictionary\buscher_spellchecker\buscher_spellchecker\buscher_spellchecker.cpp(43): note: see reference to class template instantiation 'myHash<std::string>' being compiled
+  buscher_spellchecker.vcxproj -> C:\Users\megb3\OneDrive\Documents\Spring_2020\C++\Dictionary\buscher_spellchecker\Debug\buscher_spellchecker.exe
