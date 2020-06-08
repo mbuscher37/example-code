@@ -1,5 +1,6 @@
 % Homework 7 Problem 3b
 % Math 3340, Spring 2018
+% Written by Meghan Buscher
 
 clear; close
 
